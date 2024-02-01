@@ -1,0 +1,10 @@
+.userSecContainer{
+    position: fixed;
+    display: flex;
+    background-color: black;
+    right: 0;
+    top: 7%;
+    flex-direction: column;
+    transition: 0.5s;
+    height: 93%;
+}
